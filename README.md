@@ -10,5 +10,5 @@ Skills: Python / SQL / R / Power BI / Tableau / Microsoft Dynamics 365 BC / SAP 
 - 💬 Ask me about Sustainable Finance, Fintech & Machine Learning in Finance
 - 📫 How to reach me: www.linkedin.com/in/shoaib-akhtar-448014196
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/your-username)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shoaib16amp)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shoaib16amp/)
